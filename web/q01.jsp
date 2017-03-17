@@ -1,7 +1,7 @@
 <%-- 
     Document   : q01
     Created on : 09/03/2017, 22:43:02
-    Author     : Catherine
+    Author     : Catherine A.
     Enunciado  : Faça um programa onde o usuário digita um número inteiro e é enviado para a tela o
                 seu antecessor, o seu sucessor, o seu quadrado, e sua raiz quadrada. Se o quadrado do
                 número for maior que 50, multiplique o número digitado por 2. Obs.: se o número
